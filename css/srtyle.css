@@ -386,6 +386,21 @@ header .navbar ul li a:hover {
   color: yellow;
 }
 
+.sohan {
+  text-align: center;
+  margin-right: 10rem;
+  margin-top: 5rem;
+}
+
+.sohan p {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.sohan p a {
+  color: yellow;
+}
+
 .top {
   position: fixed;
   bottom: 6.5rem;
